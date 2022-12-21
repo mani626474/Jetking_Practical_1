@@ -1,0 +1,4 @@
+2) How to add and switch main network to Goreli test network in
+Metamask?
+Ans:- Go to my account and press on setting and then click on advanced and turn on the test net
+and test network are visible 

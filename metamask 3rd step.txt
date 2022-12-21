@@ -1,0 +1,3 @@
+3) How to fund Goreli test network with test ether in Metamask?
+Ans:- Open the Goerli test network and  copy your acount 
+ Click on Buy for test faucet and paste your account 

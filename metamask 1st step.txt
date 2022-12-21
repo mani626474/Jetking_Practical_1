@@ -1,0 +1,6 @@
+Demonstrate on How to create and setup Metamask account and
+wallet?
+Ans:- Fist of all open browser and search chrome extension metamask
+ when extension are open then add to chrome and pin the extension
+if you have have alrready acount then enter the phrases 
+ 
